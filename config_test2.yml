@@ -1,0 +1,7 @@
+# config test file
+
+first: "configItem1"
+second: "configItem2"
+third: 3
+fourth: true
+fifth: 5.5

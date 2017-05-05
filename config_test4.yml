@@ -1,0 +1,7 @@
+# config test file
+
+tough:
+  - a: "subitem1"
+    b: 1
+  - a: "subitem2"
+    b: 2
