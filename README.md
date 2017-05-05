@@ -1,4 +1,4 @@
-# package config
+# go-config
 
 Read a yml or json config file, and automatically look for environment variables to overwrite config file settings.
 
